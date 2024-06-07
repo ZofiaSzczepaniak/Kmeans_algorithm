@@ -4,8 +4,9 @@ K-means clustering is an unsupervised machine learning algorithm that partitions
 The project contains three files:
 1) k-means - the implementation of k-means algorithm.
 2) data.json - the file json with data, which is used for clustering in the main program.
+# Results
 ![image](https://github.com/ZofiaSzczepaniak/Kmeans_algorithm/assets/169342885/5a7df037-2ee6-4c73-b116-e023a141c358)
 ![image](https://github.com/ZofiaSzczepaniak/Kmeans_algorithm/assets/169342885/452613ea-7b0f-49fe-86ce-aece28a9f71e)
 
-## Instructions: 
+# Instructions: 
 First to use the program, one must install the Python compiler. To do so, enter the site and follow the given steps: https://code.visualstudio.com/
